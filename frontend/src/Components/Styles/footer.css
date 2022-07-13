@@ -1,0 +1,15 @@
+@import url("./globals.css");
+.Footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 100%;
+    padding: 1rem;
+    background-color: #1C1C1C;
+    color: #fefefe;
+    font-family: Jaldi-Regular;
+}
+.text{
+    margin-right: 1rem;
+}

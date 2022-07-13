@@ -1,0 +1,32 @@
+@import url("./globals.css");
+.Nav{
+    background-color: #1C1C1C;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: #fefefe;
+}
+.text{
+    font-family: Jaldi-Regular;
+}
+.navigator a{
+    color: #d3d3d3;
+    text-decoration: none;
+    font-family: Jaldi-Bold;
+}
+.navigator a:hover{
+    color: #ffffff;
+}
+.navigator ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+}
+.navigator ul li{
+    list-style-type: none;
+    padding-right: 1rem;
+    margin-right: 1rem;
+}
